@@ -1,0 +1,17 @@
+{
+  "name": "api-url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "url shortener",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "vincE",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "8.0.0",
+    "express": "4.17.1",
+    "gen-id": "0.1.1",
+    "mongoose": "5.5.12"
+  }
+}
